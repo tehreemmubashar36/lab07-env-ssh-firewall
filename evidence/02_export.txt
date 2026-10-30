@@ -1,0 +1,3 @@
+COURSE=Cloud Computing
+LAB=Lab 07
+STUDENT=Tehreem Mubashar
